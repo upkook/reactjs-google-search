@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ReactJS Google Search
+
+[![Run Status](https://api.shippable.com/projects/5d9c3c8a09ee2a00069efbae/badge?branch=master)]()
+[![Coverage Badge](https://api.shippable.com/projects/5d9c3c8a09ee2a00069efbae/coverageBadge?branch=master)]()
 
 ## Available Scripts
 
