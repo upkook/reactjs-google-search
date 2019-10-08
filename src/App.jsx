@@ -7,11 +7,13 @@ import GButton from './components/GButton';
 
 function App() {
   return (
-    <div>
+    <div className="googleBox">
       <img src={logo} className="App-logo" alt="logo" />
       <SearchBox />
-      <GButton text="Google Search" />
-      <GButton text="I'm Feeling Lucky" />
+      <div className="buttonBox">
+        <GButton text="Google Search" />
+        <GButton text="I'm Feeling Lucky" />
+      </div>
     </div>
   );
 }
