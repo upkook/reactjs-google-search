@@ -18,7 +18,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "coverage": "npm test -- --coverage --coverageDirectory=coverage --reporters=jest-junit",
+    "coverage": "npm test -- --watchAll=false --coverage --coverageDirectory=coverage --reporters=jest-junit",
     "lint": "eslint src/**/*{.js,.jsx}",
     "stylelint": "stylelint src/**/*.{css,scss}",
     "eject": "react-scripts eject"
