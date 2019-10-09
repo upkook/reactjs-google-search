@@ -43,13 +43,14 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-###`npm run lint`
+### `npm run lint`
 
 This command analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs, JavaScript language.
-###`npm run stylelint`
+
+### `npm run stylelint`
 this command is a mighty, modern CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets.
 
-###`npm run coverage`
+### `npm run coverage`
 A command-line tool to collect and report code coverage of a JavaScript program.
 
 ## Learn More
