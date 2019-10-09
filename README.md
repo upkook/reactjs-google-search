@@ -3,6 +3,9 @@
 [![Run Status](https://api.shippable.com/projects/5d9c3c8a09ee2a00069efbae/badge?branch=master)]()
 [![Coverage Badge](https://api.shippable.com/projects/5d9c3c8a09ee2a00069efbae/coverageBadge?branch=master)]()
 
+This is a simple project to demonstrate how ReactJS can be used to simplify coding.
+This project uses reusable components to build google search user interface.
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -40,6 +43,15 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+###`npm run lint`
+
+This command analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs, JavaScript language.
+###`npm run stylelint`
+this command is a mighty, modern CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets.
+
+###`npm run coverage`
+A command-line tool to collect and report code coverage of a JavaScript program.
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
@@ -69,3 +81,30 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+###Copyright
+&copy; 2019
+
+This project was develop of UPKOOK developers.
+
+https://www.upkook.com
+
+https://blog.upkook.com
+
+you can follow us at:
+<p>
+ <a href="https://www.upkook.com">
+      <img src="https://m1.upkook.com/sites/MQ/www.upkook.com.png" width="48" alt="Follow @upkook" />
+  </a>
+  
+  <a href="https://t.me/reactkook">
+      <img src="https://bs7.upkook.com/site/images/social/telegram.svg" width="48" alt="Follow @upkook" />
+    </a>
+
+  <a href="https://www.linkedin.com/showcase/upkook-tech/">
+      <img src="https://bs7.upkook.com/site/images/social/linkedin.svg" width="48" alt="Follow @upkook" />
+  </a>
+  
+  <a href="https://twitter.com/upkookcom">
+        <img src="https://bs7.upkook.com/site/images/social/twitter.svg" width="48" alt="Follow @upkook" />
+    </a>
+</p>
